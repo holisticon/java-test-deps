@@ -29,6 +29,12 @@
             <organization>holisticon AG</organization>
             <organizationUrl>http://holisticon.de/</organizationUrl>
         </developer>
+        <developer>
+            <name>Jan Galinski</name>
+            <email>jan.galinski@holisticon.de</email>
+            <organization>holisticon AG</organization>
+            <organizationUrl>http://holisticon.de/</organizationUrl>
+        </developer>
     </developers>
 
     <licenses>
