@@ -1,4 +1,5 @@
 # de.holisticon:java-test-deps
+[![Build Status](https://secure.travis-ci.org/holisticon/java-test-deps.png)](https://travis-ci.org/holisticon/java-test-deps)
 ## Introduction
 This is just a dead simple pom that aggregates test dependencies. These are:
 
