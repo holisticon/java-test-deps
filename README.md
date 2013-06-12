@@ -1,4 +1,4 @@
-# de.holisticon:java-test-deps   0.1-SNAPSHOT
+# de.holisticon:java-test-deps
 ## Introduction
 This is just a dead simple pom that aggregates test dependencies. These are:
 
