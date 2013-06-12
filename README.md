@@ -1,10 +1,11 @@
 # de.holisticon:java-test-deps   0.1-SNAPSHOT
 ## Introduction
 This is just a dead simple pom that aggregates test dependencies. These are:
+
 - [junit](https://github.com/junit-team/junit/wiki)
-- [hamcrest]()
-- equalsverifier
-- mockito
+- [hamcrest](https://code.google.com/p/hamcrest/)
+- [equalsverifier](https://code.google.com/p/equalsverifier/)
+- [mockito](https://code.google.com/p/mockito/)
 
 in their current version. That's it.
 
