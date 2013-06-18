@@ -1,12 +1,12 @@
-# de.holisticon:java-test-deps
+# de.holisticon.dependencies:junit-mockito
 [![Build Status](https://secure.travis-ci.org/holisticon/java-test-deps.png)](https://travis-ci.org/holisticon/java-test-deps)
 ## Introduction
 This is just a dead simple pom that aggregates test dependencies. These are:
 
-- [junit](https://github.com/junit-team/junit/wiki)
-- [hamcrest](https://code.google.com/p/hamcrest/)
-- [equalsverifier](https://code.google.com/p/equalsverifier/)
-- [mockito](https://code.google.com/p/mockito/)
+- [junit](https://github.com/junit-team/junit/wiki) as a general purpose testing framework.
+- [hamcrest](https://code.google.com/p/hamcrest/) for better asserts.
+- [equalsverifier](https://code.google.com/p/equalsverifier/) to test equals and hashcode methods.
+- [mockito](https://code.google.com/p/mockito/) for convenient mocking.
 
 in their current version. That's it.
 
