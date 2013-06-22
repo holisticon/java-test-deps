@@ -20,4 +20,4 @@ Have a neat tool for testing that is not in here? Let us know.
 This project is sponsored and supported by [holisticon AG](http://holisticon.de/cms/About/Startseite)
 
 ## License
-This project is released under the revised BSD License (s. license.txt).
+This project is released under the revised BSD License (s. [License](license.txt)).
