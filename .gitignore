@@ -5,3 +5,7 @@ target
 .classpath
 *.iml
 .idea
+#
+# do not commit symlinks
+#
+travis.yml
