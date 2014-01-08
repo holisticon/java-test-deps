@@ -7,7 +7,7 @@ jdk:
 #
 # checkout the settings before build
 #
-before_install: "git clone git@github.com:holisticon/travis-configuration.git target/travis"
+before_install: "git clone https://github.com/holisticon/travis-configuration.git target/travis"
 #
 # build, package and deploy snapshot to sonatype repo
 #
