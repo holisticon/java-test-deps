@@ -19,7 +19,7 @@ branches:
   only:
   - master
 #
-# encrypted credentials for 
+# encrypted credentials for sonatype
 #
 env:
   global:
